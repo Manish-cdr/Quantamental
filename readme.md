@@ -41,7 +41,7 @@ API keys (all have free tiers, except where noted):
 Clone the repo and run each service in its own terminal.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Quantamental.git
+git clone https://github.com/Manish-cdr/Quantamental.git
 cd Quantamental
 ```
 
